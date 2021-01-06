@@ -1,0 +1,230 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+    
+   
+header ul a { 
+   
+    
+     font-size: 20px;
+     padding: 5px;
+    
+     text-decoration: none;   
+     color: rgb(94, 88, 88);   
+     
+    
+    
+ 
+    
+}
+li  {
+    display: inline-block;
+    padding: 10px 40px;
+    float: right;  
+    background-color: rgb(121, 255, 150);
+    border-radius: 3px; 
+    box-shadow: 6px 6px 10px gray ;
+}
+   
+   
+
+#mg{
+    margin-right: 30px;
+}
+
+h1{
+
+    font-size: 50px; 
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: rgb(78, 78, 78);
+}
+.orange-highlight{
+    color: rgb(241, 86, 38);
+}
+.name-highlight-2{
+    color: rgb(19, 4, 230);
+}
+.half-width{
+    width: 40%;
+    margin:3% ;
+    padding-left: 1%;
+    float: left; 
+    
+}
+
+.half-width-2{
+    width: 40%;
+    margin:3% ;
+    padding-left: 1%;
+    float: right; 
+
+}
+.half-width-2 img{
+    width: 100%;
+}
+
+
+.link-button{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-image:linear-gradient(45deg,rgb(65, 209, 65), rgb(3, 163, 3)) ;
+    padding: 10px 20px;
+    border-radius:10px ;
+   
+}
+ 
+h4{
+    
+    color: rgb(252, 46, 46);
+}
+section{
+    height: 700px;
+    margin-bottom: 50px;
+}
+
+ .top-banner{
+    background-image:linear-gradient(120deg,rgb(248, 255, 248), rgb(121, 255, 150)) ;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+ }
+
+.half-width-3 {
+    width: 40%;
+    margin:3% ;
+    padding-left: 1%;
+    float:left; 
+} 
+.half-width-3 img {
+    width: 100%;
+}
+.middel-banner{
+    background-image:linear-gradient(130deg,rgb(248, 255, 248), rgb(121, 255, 150)) ;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+#center{
+    font-family :Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 40px;
+   
+    
+
+}
+.final-touch{
+    background-image:linear-gradient(130deg,rgb(248, 255, 248), rgb(121, 255, 150)) ;
+    box-shadow: 10px 10px 40px rgb(85, 84, 84);
+    border-radius: 10px;
+
+}
+.red{
+    color: rgb(255, 40, 40) ;
+}
+.beguni{
+    color: rgb(69, 2, 100);
+}
+
+
+
+.last-div{
+    margin-left: 145px;  
+    margin-top: 100px;
+    height:380px ;
+    width: 20%;
+    display: inline-block;
+    border-radius: 15px;
+    background-color: rgb(245, 251, 255);
+    box-shadow: 10px 10px 40px rgb(59, 59, 59);
+    box-sizing: border-box;
+}
+.last-div img {
+    width: 100%;
+}
+.size{
+    padding: 10px;
+}
+.last-page img {
+
+    width: 70%;
+    margin-left: 15%;
+   
+
+}
+.last-page{
+    background-image:linear-gradient(170deg,rgb(248, 255, 248), rgb(121, 255, 150)) ;
+    box-shadow: 10px 10px 40px rgb(85, 84, 84);
+    border-radius: 10px;
+}
+
+
+.stay{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(78, 76, 76);
+}
+.design{
+    font-size: 25px;
+    text-align: center;
+  
+    color: rgba(65, 0, 112, 0.87);
+}
+
+.icon{
+   
+    width:52% ;
+    padding-left: 42%;
+   
+
+
+}
+   
+.icon img{
+
+    width: 5%;
+    margin: 22px;
+   
+    
+}
+.link-button-2{
+     
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-image:linear-gradient(45deg,rgb(238, 114, 76), rgb(209, 74, 12)) ;
+    padding: 10px 20px;
+    border-radius:10px ;
+    float: right;
+    margin-top: 13%;
+   
+    
+
+}
+#left{ 
+    height: 100px;
+    width: 300px;
+     
+}
+#done{
+    text-align: center;
+}
+
+
+.link-button-d{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-image:linear-gradient(45deg,rgb(252, 91, 16), rgb(168, 54, 2)) ;
+    padding: 10px 20px;
+    border-radius:10px ;
+}
+
+#shadow{
+    box-shadow: 15px 15px 30px grey;
+    border-radius: 35px;
+}
